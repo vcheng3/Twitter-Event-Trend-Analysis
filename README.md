@@ -2,7 +2,7 @@
 
 -Done for Data Intensive Computing - CSE487
 
--Use TwitteR package in R to perform EDA and some basic visualization w/o ggplot or ggplot2. Tweet size roughly 2000. Essentially will use twitteR to get a trend and geocode the locations of the tweets and save them to dataframes. Data visualization to plot density heat maps to plot where the tweets come from in the United States.
+-Use TwitteR package in R to perform EDA and some basic visualization w/o ggplot or ggplot2. Tweet size of roughly 2000. Essentially will use twitteR to get a trend and geocode the locations of the tweets and save them to dataframes. Data visualization to plot density heat maps to plot where the tweets come from in the United States.
 
 # Notes
 
